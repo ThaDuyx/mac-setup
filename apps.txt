@@ -5,4 +5,4 @@ iina
 notion
 spotify
 microsoft-teams
-
+affinity-designer
