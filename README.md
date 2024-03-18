@@ -32,7 +32,8 @@
 ```
 brew install raycast
 ```
-Install the raycast [Brew](https://www.raycast.com/nhojb/brew) plugin afterwards.
+Raycast replaces the Spotlight function. Install the raycast [Brew](https://www.raycast.com/nhojb/brew) plugin afterwards.
+- Change the keyboard shortcut @ System Settings -> Keyboard -> Keyboard shortcuts -> Spotlight -> Uncheck `CMD+SPACE`
 ### 👨🏼‍💻 iterm2
 ```
 brew install iterm2
