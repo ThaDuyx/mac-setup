@@ -1,4 +1,4 @@
-# 🍏 mac-setup
+# 🍏 macOS setup
 ## ⚙️ System Settings
 ### 📋 General
 - **Handoff** On
