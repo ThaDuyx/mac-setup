@@ -1,35 +1,35 @@
 # 🍏 macOS setup
 ## OS Setup
-- ⚙️ System Settings
-  - 📋 **General**  
-    - **Handoff** On
-    - **AirDrop:** Contacts only
-    - **Airplay:** On same network
-  - 💻 **Desktop & Dock**  
-    - **Minimise windows using:** Scale Effect
-    - **Minimise windows into application icon:** Off
-    - **Automatically hide and show the Dock:** On
-    - **Animate opening applications:** Off
-    - **Show indicator for open applications:** Off
-    - **Show suggested and recent apps in Dock:** Off
-    - **Click wallpaper to reveal desktop:** Only in Stage Manager
-    - **Stage Manager:** Off
-  - 🖥️ **Displays**  
-    - **Show resolutions as list(Advanced...)**: On
-  - 🖱️ **Trackpad**  
-    - **Tap to click:** On
+- ⚙️ **System Settings**
+  - 📋 General  
+    - _Handoff:_ `On`
+    - _AirDrop:_ `Contacts only`
+    - _Airplay:_ `On same network`
+  - 💻 Desktop & Dock
+    - _Minimise windows using:_ `Scale Effect`
+    - _Minimise windows into application icon:_`Off`
+    - _Automatically hide and show the Dock:_ `On`
+    - _Animate opening applications:_ `Off`
+    - _Show indicator for open applications:_ `Off`
+    - _Show suggested and recent apps in Dock:_ `Off`
+    - _Click wallpaper to reveal desktop:_`Only in Stage Manager`
+    - _Stage Manager:_ `Off`
+  - 🖥️ Displays  
+    - _Show resolutions as list(Advanced...):_ `On`
+  - 🖱️ Trackpad
+    - _Tap to click:_ `On`
 - 🔦 **Finder**
-  - General
-    - Show these on the desktop -> Select None
-    - New Finder windows show -> Home Folder
+  - 📋 General
+    - _Show these on the desktop:_ `Select None`
+    - _New Finder windows show:_ `Home Folder`
   - Advanced
-    - Show all filename extensions -> Yes
-    - Show warning before changing an extension -> No
-    - When performing a search -> Search the current folder
+    - _Show all filename extensions:_ `Yes`
+    - _Show warning before changing an extension:_ `No`
+    - _When performing a search:_ `Search the current folder`
   - View
-    - Show Status Bar
-    - Show Path Bar
-    - Show Tab Bar
+    - _Show Status Bar_
+    - _Show Path Bar_
+    - _Show Tab Bar_
 
 
 ## Applications setup
