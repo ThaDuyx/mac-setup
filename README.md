@@ -1,11 +1,11 @@
 # 🍏 macOS setup
 ## ⚙️ System Settings
-### 📋 General
+📋 **General**  
 - **Handoff** On
 - **AirDrop:** Contacts only
 - **Airplay:** On same network
 
-### 💻 Desktop & Dock
+💻 **Desktop & Dock**  
 - **Minimise windows using:** Scale Effect
 - **Minimise windows into application icon:** Off
 - **Automatically hide and show the Dock:** On
@@ -15,10 +15,10 @@
 - **Click wallpaper to reveal desktop:** Only in Stage Manager
 - **Stage Manager:** Off
 
-### 🖥️ Displays
+🖥️ **Displays**  
 - **Show resolutions as list(Advanced...)**: On
 
-### 🖱️ Trackpad
+🖱️ Trackpad  
 - **Tap to click:** On
 
 
