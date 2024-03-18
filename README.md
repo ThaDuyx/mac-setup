@@ -1,5 +1,5 @@
 # 🍏 mac-setup
-## System Settings
+## ⚙️ System Settings
 ### General
 - **Handoff** On
 - **AirDrop:** Contacts only
