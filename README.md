@@ -1,6 +1,6 @@
 # 🍏 mac-setup
 ## ⚙️ System Settings
-### General
+### 📋 General
 - **Handoff** On
 - **AirDrop:** Contacts only
 - **Airplay:** On same network
@@ -21,7 +21,7 @@
 ### 🖱️ Trackpad
 - **Tap to click:** On
 
-## Applications
+## Applications setup
 ### 🍺 Homebrew
 [Homebrew](https://brew.sh) for installing packages
 ```
@@ -44,6 +44,10 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ### 🍻 Brew installs
 ```
+brew install --cask tower
+brew install --cask visual-studio-code
+brew install --cask sf-symbols
+brew install --cask anaconda
 brew install --cask bettertouchtool
 brew install --cask iina
 brew install --cask monitorcontrol
@@ -51,10 +55,6 @@ brew install --cask appcleaner
 brew install --cask discord
 brew install --cask spotify
 brew install --cask notion
-brew install --cask tower
-brew install --cask visual-studio-code
-brew install --cask sf-symbols
-brew install --cask anaconda
 brew tap homebrew/cask-versions
 brew install homebrew/cask-versions/firefox-developer-edition
 ```
@@ -64,3 +64,17 @@ brew install homebrew/cask-versions/firefox-developer-edition
 - [HotSpot Shield](https://apps.apple.com/dk/app/hotspotshield-vpn-wifi-proxy/id771076721?mt=12) vpn
 - [XCode](https://apps.apple.com/dk/app/xcode/id497799835?mt=12) IDE
 - [DevCleaner](https://apps.apple.com/dk/app/devcleaner-for-xcode/id1388020431?mt=12) dev clutter organizer
+
+
+### Node.js
+Double check the latest version on the [nvm](https://github.com/nvm-sh/nvm) GitHub page. 
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+```
+Afterwards download wanted node version.
+```
+nvm install 20
+nvm use 20
+node --version
+```
+
