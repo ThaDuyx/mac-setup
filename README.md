@@ -49,6 +49,8 @@ brew install --cask tower
 brew install --cask visual-studio-code
 brew install --cask sf-symbols
 brew install --cask anaconda
+brew tap homebrew/cask-versions
+brew install homebrew/cask-versions/firefox-developer-edition
 ```
 
 ### App store
