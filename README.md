@@ -82,6 +82,7 @@ node --version
 
 ## 🍎 App Store
 - [Dashlane](https://apps.apple.com/dk/app/dashlane-password-manager/id517914548) password vault
+- [Final Cut Pro](https://apps.apple.com/dk/app/final-cut-pro/id424389933?mt=12) video editor
 - [HotSpot Shield](https://apps.apple.com/dk/app/hotspotshield-vpn-wifi-proxy/id771076721?mt=12) vpn
 - [XCode](https://apps.apple.com/dk/app/xcode/id497799835?mt=12) IDE
 - [DevCleaner](https://apps.apple.com/dk/app/devcleaner-for-xcode/id1388020431?mt=12) dev clutter organizer
