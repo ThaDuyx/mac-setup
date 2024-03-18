@@ -1,0 +1,4 @@
+tower
+visual-studio-code
+sf-symbols
+anaconda
