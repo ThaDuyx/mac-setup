@@ -22,7 +22,7 @@
 - **Tap to click:** On
 
 ## Applications
-#### Homebrew
+### Homebrew
 [Homebrew](https://brew.sh) for installing packages
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -36,6 +36,12 @@ Install the raycast [Brew](https://www.raycast.com/nhojb/brew) plugin afterwards
 ```
 brew install iterm2
 ```
+### oh-my-zsh
+Open source framework for managing zsh configuration and terminal.
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
 ### Brew installs
 ```
 brew install --cask bettertouchtool
