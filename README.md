@@ -24,10 +24,10 @@
 
 ## Applications setup
 ### 🍺 Homebrew
-[Homebrew](https://brew.sh) for installing packages
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+[Homebrew](https://brew.sh) for installing packages.
 ### 🔍 Raycast
 ```
 brew install raycast
@@ -39,6 +39,7 @@ Change the keyboard shortcut @ System Settings -> Keyboard -> Keyboard shortcuts
 ```
 brew install iterm2
 ```
+iterm2 replaces the mac-os terminal application.
 ### 💾 oh-my-zsh
 Open source framework for managing zsh configuration and terminal.
 ```
