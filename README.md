@@ -21,9 +21,7 @@
 
 - 🖱️ Trackpad  
   - **Tap to click:** On
-
-### 🔦 Finder
-- Finder
+- 🔦 Finder
   - General
     - Show these on the desktop -> Select None
     - New Finder windows show -> Home Folder
