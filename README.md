@@ -5,7 +5,7 @@
 - **AirDrop:** Contacts only
 - **Airplay:** On same network
 
-### Desktop & Dock
+### 💻 Desktop & Dock
 - **Minimise windows using:** Scale Effect
 - **Minimise windows into application icon:** Off
 - **Automatically hide and show the Dock:** On
@@ -15,34 +15,34 @@
 - **Click wallpaper to reveal desktop:** Only in Stage Manager
 - **Stage Manager:** Off
 
-### Displays
+### 🖥️ Displays
 - **Show resolutions as list(Advanced...)**: On
 
-### Trackpad
+### 🖱️ Trackpad
 - **Tap to click:** On
 
 ## Applications
-### Homebrew
+### 🍺 Homebrew
 [Homebrew](https://brew.sh) for installing packages
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-### Raycast
+### 🔍 Raycast
 ```
 brew install raycast
 ```
 Install the raycast [Brew](https://www.raycast.com/nhojb/brew) plugin afterwards.
-### iterm2
+### 👨🏼‍💻 iterm2
 ```
 brew install iterm2
 ```
-### oh-my-zsh
+### 💾 oh-my-zsh
 Open source framework for managing zsh configuration and terminal.
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-### Brew installs
+### 🍻 Brew installs
 ```
 brew install --cask bettertouchtool
 brew install --cask iina
@@ -59,7 +59,7 @@ brew tap homebrew/cask-versions
 brew install homebrew/cask-versions/firefox-developer-edition
 ```
 
-### App store
+### 🍎 App Store
 - [Dashlane](https://apps.apple.com/dk/app/dashlane-password-manager/id517914548) password vault
 - [HotSpot Shield](https://apps.apple.com/dk/app/hotspotshield-vpn-wifi-proxy/id771076721?mt=12) vpn
 - [XCode](https://apps.apple.com/dk/app/xcode/id497799835?mt=12) IDE
