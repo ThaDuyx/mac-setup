@@ -21,6 +21,7 @@
 ### 🖱️ Trackpad
 - **Tap to click:** On
 
+
 ## Applications setup
 ### 🍺 Homebrew
 [Homebrew](https://brew.sh) for installing packages
