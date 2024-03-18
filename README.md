@@ -46,7 +46,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ### 🍻 Brew installs
 Download `dev.txt`, `apps.txt` or `prod.txt` depending on the mac setup and run the following:
 ```
-xargs brew install < apps.txt
+xargs brew install < file.txt
 ```
 
 ### 🔥🦊 Firefox
