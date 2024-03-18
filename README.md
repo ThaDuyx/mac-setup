@@ -68,7 +68,7 @@ brew tap homebrew/cask-versions
 brew install homebrew/cask-versions/firefox-developer-edition
 ```
 
-### Node.js
+### 🎶 Node.js
 Double check the latest version on the [nvm](https://github.com/nvm-sh/nvm) GitHub page. 
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
