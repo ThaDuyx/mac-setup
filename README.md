@@ -1,25 +1,40 @@
 # 🍏 macOS setup
-## ⚙️ System Settings
-📋 **General**  
-- **Handoff** On
-- **AirDrop:** Contacts only
-- **Airplay:** On same network
+## OS
+### ⚙️ System Settings
+- 📋 **General**  
+  - **Handoff** On
+  - **AirDrop:** Contacts only
+  - **Airplay:** On same network
 
-💻 **Desktop & Dock**  
-- **Minimise windows using:** Scale Effect
-- **Minimise windows into application icon:** Off
-- **Automatically hide and show the Dock:** On
-- **Animate opening applications:** Off
-- **Show indicator for open applications:** Off
-- **Show suggested and recent apps in Dock:** Off
-- **Click wallpaper to reveal desktop:** Only in Stage Manager
-- **Stage Manager:** Off
+- 💻 **Desktop & Dock**  
+  - **Minimise windows using:** Scale Effect
+  - **Minimise windows into application icon:** Off
+  - **Automatically hide and show the Dock:** On
+  - **Animate opening applications:** Off
+  - **Show indicator for open applications:** Off
+  - **Show suggested and recent apps in Dock:** Off
+  - **Click wallpaper to reveal desktop:** Only in Stage Manager
+  - **Stage Manager:** Off
 
-🖥️ **Displays**  
-- **Show resolutions as list(Advanced...)**: On
+- 🖥️ **Displays**  
+  - **Show resolutions as list(Advanced...)**: On
 
-🖱️ Trackpad  
-- **Tap to click:** On
+- 🖱️ Trackpad  
+  - **Tap to click:** On
+
+### 🔦 Finder
+- Finder
+  - General
+    - Show these on the desktop -> Select None
+    - New Finder windows show -> Home Folder
+  - Advanced
+    - Show all filename extensions -> Yes
+    - Show warning before changing an extension -> No
+    - When performing a search -> Search the current folder
+  - View
+    - Show Status Bar
+    - Show Path Bar
+    - Show Tab Bar
 
 
 ## Applications setup
