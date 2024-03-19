@@ -27,6 +27,7 @@
 
 
 ## Applications setup
+
 ### 🍺 Homebrew
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -40,6 +41,19 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 and check that Homebrew is installed properly.
 ```
 brew doctor
+```
+
+### 👨🏼‍💻 iterm2 & warp
+```
+brew install iterm2
+brew install warp
+```
+iterm2 and warp replaces the mac-os terminal application.
+
+### 💾 oh-my-zsh
+Open source framework for managing zsh configuration and terminal.
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 ### 🔍 Raycast
@@ -62,18 +76,9 @@ brew tap homebrew/cask-versions
 brew install homebrew/cask-versions/firefox-developer-edition
 ```
 **Extensions:** [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), [Dashlane](https://addons.mozilla.org/en-US/firefox/addon/dashlane/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) and [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+
 ## Dev tools
-### 👨🏼‍💻 iterm2 & warp
-```
-brew install iterm2
-brew install warp
-```
-iterm2 and warp replaces the mac-os terminal application.
-### 💾 oh-my-zsh
-Open source framework for managing zsh configuration and terminal.
-```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
+
 ### 🐍 Python
 ```
 brew install python
