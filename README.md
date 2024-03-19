@@ -23,13 +23,7 @@
     - _Show these on the desktop:_ `Select None`
     - _New Finder windows show:_ `Home Folder`
   - Advanced
-    - _Show all filename extensions:_ `Yes`
-    - _Show warning before changing an extension:_ `No`
     - _When performing a search:_ `Search the current folder`
-  - View
-    - _Show Status Bar_
-    - _Show Path Bar_
-    - _Show Tab Bar_
 
 
 ## Applications setup
