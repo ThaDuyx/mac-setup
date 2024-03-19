@@ -67,18 +67,6 @@ Open source framework for managing zsh configuration and terminal.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-### 🍻 Brew installs
-Download `dev.txt`, `apps.txt` or `prod.txt` depending on the mac setup and run the following:
-```
-xargs brew install < file.txt
-```
-
-### 🔥🦊 Firefox
-```
-brew tap homebrew/cask-versions
-brew install homebrew/cask-versions/firefox-developer-edition
-```
-
 ### 🐍 Python
 ```
 brew install python
@@ -100,6 +88,18 @@ Afterwards download wanted node version.
 nvm install 20
 nvm use 20
 node --version
+```
+
+### 🍻 Brew installs
+Download `dev.txt`, `apps.txt` or `prod.txt` depending on the mac setup and run the following:
+```
+xargs brew install < file.txt
+```
+
+### 🔥🦊 Firefox
+```
+brew tap homebrew/cask-versions
+brew install homebrew/cask-versions/firefox-developer-edition
 ```
 
 ## 🍎 App Store
