@@ -100,9 +100,8 @@ nvm use 20
 node --version
 ```
 ### 🌊 TensorFlow
-Either
 ```
-# v2.13 or later
+# v2.13 or later:
 python -m pip install tensorflow
 
 # v2.12 or earlier:
