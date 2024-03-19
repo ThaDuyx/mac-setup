@@ -43,7 +43,7 @@ Add Homebrew to your PATH in ~/.zprofile:
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
-and run 
+and check that Homebrew is installed properly.
 ```
 brew doctor
 ```
