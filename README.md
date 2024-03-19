@@ -37,7 +37,17 @@
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-[Homebrew](https://brew.sh) for installing packages.
+[Homebrew](https://brew.sh) for installing packages.  
+Add Homebrew to your PATH in ~/.zprofile:
+```
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+```
+and run 
+```
+brew doctor
+```
+
 ### 🔍 Raycast
 ```
 brew install raycast
