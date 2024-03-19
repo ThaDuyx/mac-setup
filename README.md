@@ -49,40 +49,6 @@ brew install raycast
 Raycast replaces the Spotlight function.  
 Install the raycast [Brew](https://www.raycast.com/nhojb/brew) plugin afterwards.  
 Change the keyboard shortcut @ System Settings -> Keyboard -> Keyboard shortcuts -> Spotlight -> Uncheck `CMD+SPACE`
-### 👨🏼‍💻 iterm2 & warp
-```
-brew install iterm2
-brew install warp
-```
-iterm2 and warp replaces the mac-os terminal application.
-### 💾 oh-my-zsh
-Open source framework for managing zsh configuration and terminal.
-```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
-
-### 🐍 Python
-```
-brew install python
-```
-To select interpreter, type `python`, `python2` or `python3` into the terminal.  
-Check version with.
-```
-python --version
-```
-
-
-### 🎶 Node.js
-Double check the latest version on the [nvm](https://github.com/nvm-sh/nvm) GitHub page. 
-```
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
-```
-Afterwards download wanted node version.
-```
-nvm install 20
-nvm use 20
-node --version
-```
 
 ### 🍻 Brew installs
 Download `dev.txt`, `apps.txt` or `prod.txt` depending on the mac setup and run the following:
@@ -95,8 +61,40 @@ xargs brew install < file.txt
 brew tap homebrew/cask-versions
 brew install homebrew/cask-versions/firefox-developer-edition
 ```
+## Dev tools
+### 👨🏼‍💻 iterm2 & warp
+```
+brew install iterm2
+brew install warp
+```
+iterm2 and warp replaces the mac-os terminal application.
+### 💾 oh-my-zsh
+Open source framework for managing zsh configuration and terminal.
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+### 🐍 Python
+```
+brew install python
+```
+To select interpreter, type `python`, `python2` or `python3` into the terminal.  
+Check version with.
+```
+python --version
+```
+### 🎶 Node.js
+Double check the latest version on the [nvm](https://github.com/nvm-sh/nvm) GitHub page. 
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+```
+Afterwards download wanted node version.
+```
+nvm install 20
+nvm use 20
+node --version
+```
 
-## 🍎 App Store
+## App Store
 - [Dashlane](https://apps.apple.com/dk/app/dashlane-password-manager/id517914548) password vault
 - [Final Cut Pro](https://apps.apple.com/dk/app/final-cut-pro/id424389933?mt=12) video editor
 - [HotSpot Shield](https://apps.apple.com/dk/app/hotspotshield-vpn-wifi-proxy/id771076721?mt=12) vpn
