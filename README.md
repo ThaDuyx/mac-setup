@@ -103,7 +103,8 @@ node --version
 Either
 ```
 # v2.13 or later
-python -m pip install tensorflow 
+python -m pip install tensorflow
+
 # v2.12 or earlier:
 python -m pip install tensorflow-macos 
 ```
