@@ -69,6 +69,16 @@ brew tap homebrew/cask-versions
 brew install homebrew/cask-versions/firefox-developer-edition
 ```
 
+### 🐍 Python
+```
+brew install python
+```
+To select the interpreter type `python1`, `python3` or `python3` into the terminal.
+```
+python --version
+```
+
+
 ### 🎶 Node.js
 Double check the latest version on the [nvm](https://github.com/nvm-sh/nvm) GitHub page. 
 ```
