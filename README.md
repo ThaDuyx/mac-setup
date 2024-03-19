@@ -71,11 +71,11 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 brew install python
 ```
-To select interpreter, type `python`, `python2` or `python3` into the terminal.
+To select interpreter, type `python`, `python2` or `python3` into the terminal.  
+Check version with.
 ```
 python --version
 ```
-To check the version
 
 
 ### 🎶 Node.js
