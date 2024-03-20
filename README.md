@@ -63,12 +63,6 @@ Raycast replaces the Spotlight function.
 Install the raycast [Brew](https://www.raycast.com/nhojb/brew) plugin afterwards.  
 Change the keyboard shortcut @ System Settings -> Keyboard -> Keyboard shortcuts -> Spotlight -> Uncheck `CMD+SPACE`
 
-### 🍻 Brew installs
-Download `dev.txt`, `apps.txt` or `prod.txt` depending on the mac setup and run the following:
-```
-xargs brew install < file.txt
-```
-
 ### 🔥🦊 Firefox
 ```
 brew tap homebrew/cask-versions
@@ -83,6 +77,11 @@ brew install homebrew/cask-versions/firefox-developer-edition
 brew install --cask appcleaner
 ```
 
+### 🍻 Brew installs
+Download `dev.txt`, `apps.txt` or `prod.txt` depending on the mac setup and run the following:
+```
+xargs brew install < file.txt
+```
 
 ## Dev tools
 
