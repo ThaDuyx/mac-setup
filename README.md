@@ -75,6 +75,8 @@ xargs brew install < file.txt
 ### 🔥🦊 Firefox
 ```
 brew tap homebrew/cask-versions
+```
+```
 brew install homebrew/cask-versions/firefox-developer-edition
 ```
 **Extensions:** [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), [Dashlane](https://addons.mozilla.org/en-US/firefox/addon/dashlane/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) and [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
