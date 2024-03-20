@@ -47,7 +47,7 @@ brew doctor
 ```
 brew install warp
 ```
-iterm2 and warp replaces the mac-os terminal application.
+warp replaces the mac-os terminal application.
 
 ### 💾 oh-my-zsh
 Open source framework for managing zsh configuration and terminal.
