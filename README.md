@@ -43,12 +43,9 @@ and check that Homebrew is installed properly.
 brew doctor
 ```
 
-### 👨🏼‍💻 iterm2 or warp
+### 👨🏼‍💻 warp
 ```
 brew install warp
-```
-```
-brew install iterm2
 ```
 iterm2 and warp replaces the mac-os terminal application.
 
