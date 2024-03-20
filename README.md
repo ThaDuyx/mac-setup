@@ -127,3 +127,4 @@ python -m pip install tensorflow-metal
 - [XCode](https://apps.apple.com/dk/app/xcode/id497799835?mt=12) IDE
 - [DevCleaner](https://apps.apple.com/dk/app/devcleaner-for-xcode/id1388020431?mt=12) dev clutter organizer
 - [Noir](https://apps.apple.com/dk/app/noir-dark-mode-for-safari/id1592917505?mt=12) safari dark mode
+- [MonitorControl Lite](https://apps.apple.com/dk/app/monitorcontrol-lite/id1595464182?mt=12)
