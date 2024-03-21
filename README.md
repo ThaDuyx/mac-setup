@@ -56,6 +56,12 @@ Open source framework for managing zsh configuration and terminal.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+### 🐈‍⬛ GitHub CLI
+```
+brew install gh
+```
+for command line GitHub access
+
 ### 🍻 Brew installs
 Download `dev.txt`, `apps.txt` or `prod.txt` depending on the mac setup and run the following:
 ```
