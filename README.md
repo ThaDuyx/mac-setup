@@ -54,8 +54,6 @@ Open source framework for managing zsh configuration and terminal.
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-[comment]: brew install jandedobbeleer/oh-my-posh/oh-my-posh
-[comment]: should look into this
 #
 ### 🔍 Raycast
 ```
