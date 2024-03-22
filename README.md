@@ -88,6 +88,10 @@ xargs brew install < file.txt
 ```
 brew install gh
 ```
+### ⌨️ Neovim
+```
+brew install nvim
+```
 
 ### 🐍 Python
 ```
