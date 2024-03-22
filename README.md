@@ -77,12 +77,6 @@ brew install homebrew/cask-versions/firefox-developer-edition
 brew install --cask appcleaner
 ```
 
-### 🐈‍⬛ GitHub CLI
-```
-brew install gh
-```
-for command line GitHub access
-
 ### 🍻 Brew installs
 Download `dev.txt`, `apps.txt` or `prod.txt` depending on the mac setup and run the following:
 ```
@@ -90,6 +84,10 @@ xargs brew install < file.txt
 ```
 
 ## Dev tools
+### 🐈‍⬛ GitHub CLI
+```
+brew install gh
+```
 
 ### 🐍 Python
 ```
