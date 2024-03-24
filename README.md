@@ -103,6 +103,10 @@ brew install gh
 ```
 brew install nvim
 ```
+```
+git clone https://github.com/ThaDuyx/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+```
+
 
 ### 🐍 Python
 ```
