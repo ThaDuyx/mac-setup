@@ -83,6 +83,17 @@ Download `dev.txt`, `apps.txt` or `prod.txt` depending on the mac setup and run 
 xargs brew install < file.txt
 ```
 
+### 📝 TextEdit
+```
+defaults write com.apple.TextEdit NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false
+```
+To open empty text page.
+```
+defaults delete com.apple.TextEdit NSShowAppCentricOpenPanelInsteadOfUntitledFile
+```
+To revert. Remember to select plain text in `,+CMD`.
+
+
 ## Dev tools
 ### 🐈‍⬛ GitHub CLI
 ```
