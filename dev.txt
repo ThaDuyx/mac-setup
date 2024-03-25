@@ -3,3 +3,4 @@ visual-studio-code
 sf-symbols
 anaconda
 warp
+postman
