@@ -143,9 +143,13 @@ python -m pip install tensorflow-macos
 ```
 python -m pip install tensorflow-metal
 ```
-
-
-
+### 🛡️ ssh
+```
+mkdir .ssh/
+```
+```
+ssh-keygen -t ed25519 -C "email"
+```
 
 ## App Store
 - [Dashlane](https://apps.apple.com/dk/app/dashlane-password-manager/id517914548) password vault
