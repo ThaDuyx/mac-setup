@@ -148,8 +148,32 @@ python -m pip install tensorflow-metal
 mkdir .ssh/
 ```
 ```
+touch ~/.ssh/config
+```
+```
 ssh-keygen -t ed25519 -C "email"
 ```
+```
+eval "$(ssh-agent -s)"
+```
+```
+open ~/.ssh/config
+```
+Add the following to the file
+```
+Host github.com
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_ed25519
+```
+Copy contents of the ssh key with the following prompt and enter this in github
+```
+pbcopy < ~/.ssh/id_ed25519.pub
+```
+
+
+
+
 
 ## App Store
 - [Dashlane](https://apps.apple.com/dk/app/dashlane-password-manager/id517914548) password vault
