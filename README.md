@@ -132,17 +132,6 @@ nvm install 20
 nvm use 20
 node --version
 ```
-### 🌊 TensorFlow
-```
-# v2.13 or later:
-python -m pip install tensorflow
-
-# v2.12 or earlier:
-python -m pip install tensorflow-macos 
-```
-```
-python -m pip install tensorflow-metal
-```
 ### 🛡️ ssh
 ```
 mkdir .ssh/
