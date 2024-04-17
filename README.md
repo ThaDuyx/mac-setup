@@ -99,6 +99,12 @@ To revert. Remember to select plain text in `,+CMD`.
 ```
 brew install gh
 ```
+```
+gh create repo name --public 
+```
+```
+git remote add origin https://github.com/OWNER/REPOSITORY
+```
 ### ⌨️ Neovim
 ```
 brew install nvim
@@ -172,3 +178,4 @@ pbcopy < ~/.ssh/id_ed25519.pub
 - [DevCleaner](https://apps.apple.com/dk/app/devcleaner-for-xcode/id1388020431?mt=12) dev clutter organizer
 - [Noir](https://apps.apple.com/dk/app/noir-dark-mode-for-safari/id1592917505?mt=12) safari dark mode
 - [MonitorControl Lite](https://apps.apple.com/dk/app/monitorcontrol-lite/id1595464182?mt=12) monitor brightness
+
