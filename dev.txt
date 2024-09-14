@@ -4,3 +4,5 @@ sf-symbols
 anaconda
 warp
 postman
+cursor
+linear
