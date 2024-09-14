@@ -6,3 +6,4 @@ notion
 spotify
 microsoft-teams
 affinity-designer
+zen-browser
