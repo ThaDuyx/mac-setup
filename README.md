@@ -110,7 +110,7 @@ git remote add origin https://github.com/OWNER/REPOSITORY
 brew install nvim
 ```
 ```
-git clone https://github.com/ThaDuyx/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/duyxsays/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 ### 🐍 Python
 ```
