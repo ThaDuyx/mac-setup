@@ -1,5 +1,6 @@
-tower
 visual-studio-code
+android-studio
+tower
 sf-symbols
 anaconda
 warp
